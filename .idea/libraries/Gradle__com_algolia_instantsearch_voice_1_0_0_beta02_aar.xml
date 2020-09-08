@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.algolia.instantsearch:voice:1.0.0-beta02@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1280e1dc4aacb0f6577a95fd577272f8/jetified-voice-1.0.0-beta02/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1280e1dc4aacb0f6577a95fd577272f8/jetified-voice-1.0.0-beta02/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.algolia.instantsearch/voice/1.0.0-beta02/e8f878764e8ee8999e4a979659aff4e41fb36039/voice-1.0.0-beta02-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.algolia.instantsearch/voice/1.0.0-beta02/dc1e13bdaea52a9823e5efb9c55244a124e7971d/voice-1.0.0-beta02-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
